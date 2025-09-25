@@ -25,7 +25,7 @@ This tool leverages a trained **PyTorch** deep learning model to analyze facial 
 - **Python**
 - **PyTorch**
 - **OpenCV**
-- **Face Detection APIs / DNN models**
+- **Face Detection APIs / CNN models**
 - **Gradio**
 
 ---
